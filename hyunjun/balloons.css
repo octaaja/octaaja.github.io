@@ -33,7 +33,7 @@
 }
 .balloon .string {
     position: absolute;
-    background-color: #990;
+    background-color: rgb(255, 57, 166);
     width: 2px;
     height: calc(var(--balloonDimension) * .6);
     transform-origin: top center;
