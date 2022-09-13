@@ -1,7 +1,7 @@
 const bdayBallons = (function(){
     const density = 7; // concurrent balloon count
     const balloons = []; 
-    const colors = ['yellow', 'green', 'blue', 'red'];
+    const colors = ['purple1', 'purple2', 'purple3', 'purple4'];
 
     const stringElement = document.createElement("div");
     stringElement.classList.add("string");

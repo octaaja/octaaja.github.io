@@ -41,15 +41,15 @@
     top: calc(var(--balloonDimension) - 6px);
     left: calc(var(--balloonDimension) - 8px);
 }
-.yellow{
+.purple1{
     background-color: rgba(173, 72, 255, 0.45);
 }
-.green{
+.purple2{
     background-color: rgba(82, 0, 165, 0.45);
 }
-.blue{
+.purple3{
     background-color: rgba(198, 83, 255, 0.45);
 }
-.red{
+.purple4{
     background-color: rgba(123, 0, 255, 0.45);
 }
