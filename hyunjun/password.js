@@ -1,5 +1,3 @@
-<!--hide
-
 var password;
 var pass1="20220514";
 
@@ -11,5 +9,3 @@ else
    {
     window.location="https://static.wikia.nocookie.net/spongebob/images/9/9a/Wishing_You_Well_068.png/revision/latest/scale-to-width-down/1000?cb=20191023005828";
     }
-
-//-->
