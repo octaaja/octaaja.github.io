@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://cdn.wallpapersafari.com/12/93/Ei0zCM.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  #main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: courier;
+    text-align: center;
+  }
+  
+  html,
+  body,
+  #main {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #main>* {
+    display: flex;
+  
+  }
+  
+  #main>*>* {
+    width: 600px;
+    height: 1000px;
+    border: 1px solid blueviolet;
+    margin: 5px;
+  }
