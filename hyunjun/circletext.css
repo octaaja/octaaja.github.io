@@ -11,14 +11,14 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #ff5300;
+    background: #31b0ff;
     overflow: hidden;
     cursor: pointer;
 }
 .text-box .text{
     position: absolute;
-    color: #fdeaa8;
-    font-size: 20px;
+    color: #ff66bd;
+    font-size: 40px;
     user-select: none;
     pointer-events: none;
     animation: Rotation 5s linear infinite;
