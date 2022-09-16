@@ -1,5 +1,5 @@
 var password;
-var pass1="20220514";
+var pass1=" 20220514";
 
 password=prompt('처음 만났던 날',' ');
 
