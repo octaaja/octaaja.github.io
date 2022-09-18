@@ -25,11 +25,11 @@ h2{
 	animation: animate 3s linear infinite;
 }
 @keyframes animate{
-	0%,18%,20%,50.1%,60%,65.1%,80%,90.1%,92%{
+	0%,6%,15%,25%,38%,45%,58%,70%,80%{
 		color: #2f0e42;
 		text-shadow: none;
 	}
-	18.1%,20.1%,30%,50%,60.1%,65%,80.1%,90%,92.1%,100%{
+	6%,15%,25%,38%,45%,58%,70%,80%,92.1%,100%{
 		color: #fff;
 		text-shadow: 0 0 10px #af7aff,
 		            0 0 20px #af7aff,
