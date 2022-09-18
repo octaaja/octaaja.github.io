@@ -18,7 +18,7 @@ body{
 .text-box .text{
     position: absolute;
     color: #9d00ff;
-    font-size: 250px;
+    font-size: 25px;
     user-select: none;
     pointer-events: none;
     animation: Rotation 5s linear infinite;
