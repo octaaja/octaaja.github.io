@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://cdn.wallpapersafari.com/12/93/Ei0zCM.jpg');
+    background-image: url('https://img.freepik.com/free-vector/blue-pink-halftone-background_53876-99004.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -32,6 +32,6 @@ body {
   #main>*>* {
     width: 600px;
     height: 600px;
-    border: 1px solid blueviolet;
+    border: 1px solid rgb(255, 255, 255);
     margin: 5px;
   }
