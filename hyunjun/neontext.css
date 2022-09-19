@@ -40,9 +40,21 @@ h2{
 
 	}
 }
-#main> {
-    width: 600px;
-    height: 600px;
-    border: 1px solid rgb(255, 255, 255);
-    margin: 200px;
+.btn {
+	border: none;
+	background-color: inherit;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+  }
+  
+  /* letter link */
+  .letter {
+	color: #af7aff;
+  }
+  
+  .letter:hover {
+	background-color: #af7aff;
+	color: white;
   }
