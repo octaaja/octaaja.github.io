@@ -38,8 +38,8 @@
     height: calc(var(--balloonDimension) * .6);
     transform-origin: top center;
     transform: rotateZ(-45deg);
-    top: calc(var(--balloonDimension) - 106px);
-    left: calc(var(--balloonDimension) - 8px);
+    top: calc(var(--balloonDimension) - 6px);
+    left: calc(var(--balloonDimension) - 108px);
 }
 .purple1{
     background-color: rgba(173, 72, 255, 0.45);
