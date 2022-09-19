@@ -1,5 +1,5 @@
 *{
-	margin: 40px;
+	margin: 0px;
 	padding: 0px;
 	box-sizing: border-box;
 	font-family: arial;
@@ -41,9 +41,10 @@ h2{
 	}
 }
 btn {
-	border: none;
+	border: 50px;
+	border-color: transparent;
 	background-color: inherit;
-	padding: 14px 28px;
+	padding: 30px 30px;
 	font-size: 30px;
 	display: inline-block;
   }
