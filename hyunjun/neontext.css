@@ -1,5 +1,5 @@
 *{
-	margin: 50px;
+	margin: 0px;
 	padding: 0px;
 	box-sizing: border-box;
 	font-family: arial;
@@ -11,6 +11,7 @@ body{
 	align-items: center;
 	min-height: 100vh;
 	background: #000;
+	margin: 100px;
 }
 h2{
 	position: relative;
