@@ -13,7 +13,7 @@ body{
 	background: #000;
 }
 h2{
-	position: absolute;
+	position: relative;
 	font-size: 6em;
 	letter-spacing: 15px;
 	color: #2f0e42;
