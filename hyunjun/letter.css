@@ -7,12 +7,12 @@ body {
   
   #main {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     color: white;
     font-family: courier;
-    text-align: center;
+    text-align: left;
   }
   
   html,
@@ -26,6 +26,7 @@ body {
   
   #main>* {
     display: flex;
+    flex-direction: column;
   
   }
   
