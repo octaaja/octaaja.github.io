@@ -38,7 +38,7 @@
     height: calc(var(--balloonDimension) * .6);
     transform-origin: top center;
     transform: rotateZ(-45deg);
-    top: calc(var(--balloonDimension) - 6px);
+    top: calc(var(--balloonDimension) - 106px);
     left: calc(var(--balloonDimension) - 8px);
 }
 .purple1{
