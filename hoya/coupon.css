@@ -4,8 +4,8 @@ body {
   
   #main {
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
     align-items: center;
     color: #56ceaa;
     font-family: arial;
