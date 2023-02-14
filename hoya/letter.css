@@ -1,10 +1,13 @@
 body {
-    background-color: #F6D7DE;
+    background-image: url('https://cdn.discordapp.com/attachments/1023196851995951115/1075066281063096320/bg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
   }
   
   #main {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     color: #56ceaa;
@@ -28,7 +31,8 @@ body {
   }
   
   #main>*>* {
-    width: 700px;
-    height: 300px;
+    width: 600px;
+    height: 600px;
+    border: 1px solid rgb(255, 255, 255);
     margin: 5px;
   }
