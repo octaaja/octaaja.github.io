@@ -7,8 +7,7 @@ body {
   
   #main {
     display: flex;
-    flex-direction: row;
-    justify-content: center;
+    flex-wrap: nowrap;
     align-items: center;
     color: #56ceaa;
     font-family: arial;
@@ -31,8 +30,8 @@ body {
   }
   
   #main>*>* {
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     border: 1px solid rgb(255, 255, 255);
     margin: 5px;
   }
