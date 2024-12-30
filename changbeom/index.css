@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/blue-pink-halftone-background_53876-99004.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  #main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: #56ceaa;
+    font-family: arial;
+    font-size: 16px;
+    text-align: left;
+  }
+  
+  html,
+  body,
+  #main {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #main>* {
+    display: flex;
+  
+  }
+  
+  #main>*>* {
+    width: 600px;
+    height: 600px;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 5px;
+  }
