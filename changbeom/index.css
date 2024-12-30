@@ -33,6 +33,5 @@ body {
   #main>*>* {
     width: 600px;
     height: 600px;
-    border: 1px solid rgb(255, 255, 255);
     margin: 5px;
   }
