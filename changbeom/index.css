@@ -7,13 +7,6 @@ body {
   
   #main {
     display: flex;
-<<<<<<< HEAD
-    flex-wrap: nowrap;
-=======
-    flex-direction: column;
-    justify-content: center;
->>>>>>> aa43993ee6ccc8743fffcfe13b0ae961ab582a75
-    align-items: center;
     color: #56ceaa;
     font-family: arial;
     font-size: 16px;
@@ -35,8 +28,8 @@ body {
   }
   
   #main>*>* {
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     border: 1px solid rgb(255, 255, 255);
     margin: 5px;
   }
